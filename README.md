@@ -23,3 +23,7 @@
 * [vh, vw, vmin, vmax](https://html5book.ru/edinicy-izmereniya-vh-vw-vmin-vmax/)
 * [Делать ли мобильную версию?](https://habrahabr.ru/company/yandex/blog/307064/)
 
+## Ошбики
+
+* [Ошибки в верстке](http://nicothin.pro/page/oshibki-i-spornye-voprosy-v-html-css-vjorstke)
+
