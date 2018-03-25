@@ -8,6 +8,11 @@
 
 * [Photoshop для html‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
 
+## CSS
+
+* [Зачем использовать normilize.css](https://htmlacademy.ru/blog/64-about-normalize-css)
+* [Блочная модель, интерактивная диаграмма](https://codepen.io/carolineartz/full/ogVXZj)
+
 ## CSS Препроцессоры
 
 * [Препроцессоры](https://frontender.info/starting-css/)
@@ -16,6 +21,7 @@
 ## Флексбоксы
 
 * [Полное руководство](https://frontender.info/a-guide-to-flexbox/)
+* [Визуальное руководство руководство](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv)
 
 ## Адаптивность
