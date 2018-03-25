@@ -21,7 +21,7 @@
 ## Флексбоксы
 
 * [Полное руководство](https://frontender.info/a-guide-to-flexbox/)
-* [Визуальное руководство руководство](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
+* [Визуальное руководство](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
 * [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv)
 
 ## Адаптивность
